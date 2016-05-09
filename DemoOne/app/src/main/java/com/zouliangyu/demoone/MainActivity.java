@@ -3,6 +3,10 @@ package com.zouliangyu.demoone;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * 邹良禹
+ * LoL掌游宝
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
